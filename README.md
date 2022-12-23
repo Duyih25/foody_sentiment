@@ -1,5 +1,5 @@
 # Foody Sentiment
-*Team INT3405E_40_HIHI (Dương Đức Duy, Mai Anh Tuấn, Lê Văn Tuấn)*
+*Team INT3405E_40_HIHI*
 
  ## dataset:
 You should use dataset directly in kaggle or download all dataset by these links:[image1](https://www.kaggle.com/datasets/duyyyy/image-crawl), [image2](https://www.kaggle.com/datasets/cduydng/foody-image-test), [image3](https://www.kaggle.com/datasets/cduydng/foody-image), [data_csv](https://www.kaggle.com/datasets/dngcduy/foody-data-after-pre)
